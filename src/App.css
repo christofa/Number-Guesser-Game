@@ -1,0 +1,25 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  background-color: black
+}
+
+.guess-box {
+  background-color: rgb(119, 89, 89);
+  text-align: center;
+  color: white;
+  padding: 100px;
+}
+
+.submit-btn {
+  background-color: #FF1616;
+  color: white;
+  margin-left: 20px;
+}
+
+input {
+  padding: 15px;
+}
